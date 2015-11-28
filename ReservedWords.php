@@ -3,7 +3,7 @@ namespace Helpers;
 
 class ReservedWords
 {
-    public static function getArray()
+    public static function getList()
     {
         return array(
             '__halt_compiler()',
